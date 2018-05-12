@@ -1,0 +1,35 @@
+_repo: Hero-Stories-from-American-HistoryFor-Elementary-Schools_31092
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Ball, Francis Kingsley
+    birthdate: 1863
+    deathdate: 1942
+    gutenberg_agent_id: '34999'
+    url: http://www.gutenberg.org/2009/agents/34999
+  - agent_name: Blaisdell, Albert F. (Albert Franklin)
+    alias: Blaisdell, Albert Franklin
+    birthdate: 1847
+    deathdate: 1927
+    gutenberg_agent_id: '3542'
+    url: http://www.gutenberg.org/2009/agents/3542
+description: ''
+gutenberg_issued: '2010-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31092'
+  lccn: '03010206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- History'
+title: 'Hero Stories from American History
+
+  For Elementary Schools'
+url: http://www.gutenberg.org/ebooks/31092
